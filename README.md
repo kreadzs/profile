@@ -1,4 +1,5 @@
 ![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kreadzs&show_icons=true&theme=dark#gh-dark-mode-only)
+<img src="https://ibb.co/RNW52cs">
 <h1>📚Info</h1>
 
 **🪪Name:**
