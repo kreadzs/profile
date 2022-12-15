@@ -42,6 +42,6 @@ Ukraine🇺🇦
 <H1>🌍Site-template's</h1>
 <p>Site's in process😉</p>
 
-<h1>SOCIAL</h1>
-├─◈ <a href="https://t.me/Kradzs">Telegram</a>
+<h1>💬SOCIAL</h1>
+<a href="https://t.me/Kradzs">Telegram</a>
 
