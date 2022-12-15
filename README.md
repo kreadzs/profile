@@ -4,12 +4,7 @@
 <a href="https://ibb.co/RNW52cs"><img src="https://i.ibb.co/m07xJ42/c58db184-ebd1-4e77-bebf-6bbaaf8b8daa-profile-banner-480.png" alt="c58db184-ebd1-4e77-bebf-6bbaaf8b8daa-profile-banner-480" border="5"></a>
 
 <br>
-<div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://thicc-thighs.de/" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a>
-    <br>
+<div align="left">
 
 <h1>📚Info</h1>
 
@@ -38,7 +33,8 @@ Maxim
 
 
 Ukraine🇺🇦
-
+  
+</div>
 
 <H1>🌍Site-template's</h1>
 <p>Site's in process😉</p>
