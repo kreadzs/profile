@@ -34,7 +34,7 @@ Maxim
 <p></p>
 
 
-Ukraine🇺🇦
+Ukraine/🇺🇦
   
 </div>
 
