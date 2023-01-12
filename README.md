@@ -46,5 +46,5 @@ Ukraine/🇺🇦
 <p>Site's in process😉</p>
 
 <h1>💬SOCIAL</h1>
-<a href="https://t.me/Kradzs">Telegram</a>
+<a href="https://t.me/ju6tmax">Telegram</a>
 
