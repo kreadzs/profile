@@ -1,6 +1,5 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 
-![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kreadzs&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
 <hr>
