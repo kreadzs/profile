@@ -1,6 +1,15 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 
-<a href='http://www.umirs.com/' title='Umirs.com TOP 100'><img src='http://www.umirs.com/counter17.png' alt='Umirs.com TOP 100' /></a>
+<!-- HostCiti.net --><a href="http://hostciti.net/" title="hostciti.net" target="_blank" onclick="this.href='http://hostciti.net/stat/?ch=stat'+'&r='+escape(window.location.href.slice(7));" >
+<script type="text/javascript" language="javascript"><!--
+Coun='<img src="http://hostciti.net/stat/stat.php?i=201&col=710055&tc=ffffff';
+iD=document; Coun+='&d='+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++"&w="+screen.width+'&h='+screen.height;
+iH=window.location.href.slice(7);
+Coun+='&r='+escape(iH);
+Coun+='&n='+escape(iD.referrer.slice(7));
+iD.write(Coun+'" width="128" height="19" border="0" />');
+</script></a><!-- End of HostCiti.net counter -->
 
 
 <hr>
