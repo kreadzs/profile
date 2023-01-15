@@ -1,13 +1,6 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 
-<div id="qooi-counter">
-<a href="http://qooi.ru/" title="Бесплатный счетчик посещений на сайт">
-<img src="http://qooi.ru/counter/standard/009.png" alt="Счетчик посещаемости и статистика сайта">
-<div id="qooi-counter-visits"></div>
-<div id="qooi-counter-views"></div>
-</a>
-</div>
-<script type="text/javascript" src="http://qooi.ru/counter.js"></script>
+<a href='http://www.umirs.com/' title='Umirs.com TOP 100'><img src='http://www.umirs.com/counter17.png' alt='Umirs.com TOP 100' /></a>
 
 
 <hr>
