@@ -1,8 +1,7 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-
 <!-- AtoZSEOTools Counter Code START -->
 <a href="https://ciroapp.com/free-tools/website-visitor-counter" target="_blank" title="Web Counter">
-<img src="https://ciroapp.com/free-tools/website-visitor-counter/count/&style=style12&show=p&num=5&uid=wf"  title="Web Counter" alt="AtoZSEOTools Web Counter" />
+<img src="https://ciroapp.com/free-tools/website-visitor-counter/count/&style=style12&show=p&num=1&uid=wg"  title="Web Counter" alt="AtoZSEOTools Web Counter" />
 </a>
 <!-- AtoZSEOTools Counter Code END -->
 
