@@ -43,7 +43,7 @@ Ukraine/🇺🇦
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
 
 <H1>🌍Site-template's</h1>
-<h4><img src="https://i.imgur.com/caanBKP.png" width="50px"></h4>
+<h4><img src="https://i.imgur.com/caanBKP.png" width="100px"></h4>
 
 <h1>💬SOCIAL</h1>
 <a href="https://t.me/ju6tmax">Telegram</a>
