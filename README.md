@@ -23,8 +23,7 @@ Maxim
 
 <p></p>
 
-
-17
+19
 
 <p></p>
 
@@ -34,7 +33,7 @@ Maxim
 <p></p>
 
 
-Ukraine/🇺🇦
+Kiev/🇺🇦
   
 </div>
 
@@ -46,5 +45,5 @@ Ukraine/🇺🇦
 <h4><img src="https://i.imgur.com/vqkNKZf.png" width="512px"></h4>
 
 <h1>💬SOCIAL</h1>
-<a href="https://t.me/ju6tmax">Telegram</a>
+<p>Discord: hamzuto_rose</p>
 
