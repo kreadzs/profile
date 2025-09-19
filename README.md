@@ -14,7 +14,7 @@
 
 <p></p>
 
-Maxim
+Max
 
 <p></p>
 
